@@ -8,9 +8,11 @@ rust-version = "1.82.0"
 authors = ["Benjamin Brienen"]
 categories = ["bevy"]
 keywords = ["bevy"]
+license = "MIT OR Apache-2.0"
+documentation = "https://docs.rs/bevy_freecam"
 
 [dependencies]
 glam = "0.29"
-bevy = "0.15.0-rc.3"
+# bevy = "0.15.0-rc.3"
 
 [lib]
