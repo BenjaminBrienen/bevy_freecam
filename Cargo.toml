@@ -1,0 +1,10 @@
+[package]
+name = "bevy_freecam"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+glam = "0.29"
+bevy = "0.15.0-rc.3"
+
+[lib]
