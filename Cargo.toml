@@ -6,7 +6,6 @@ repository = "https://github.com/BenjaminBrienen/bevy_freecam"
 homepage = "https://github.com/BenjaminBrienen/bevy_freecam"
 rust-version = "1.82.0"
 authors = ["Benjamin Brienen"]
-categories = ["bevy"]
 keywords = ["bevy"]
 license = "MIT OR Apache-2.0"
 documentation = "https://docs.rs/bevy_freecam"
