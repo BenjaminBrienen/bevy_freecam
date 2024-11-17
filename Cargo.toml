@@ -1,7 +1,13 @@
 [package]
 name = "bevy_freecam"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
+repository = "https://github.com/BenjaminBrienen/bevy_freecam"
+homepage = "https://github.com/BenjaminBrienen/bevy_freecam"
+rust-version = "1.82.0"
+authors = ["Benjamin Brienen"]
+categories = ["bevy"]
+keywords = ["bevy"]
 
 [dependencies]
 glam = "0.29"
