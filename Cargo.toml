@@ -9,6 +9,7 @@ authors = ["Benjamin Brienen"]
 keywords = ["bevy"]
 license = "MIT OR Apache-2.0"
 documentation = "https://docs.rs/bevy_freecam"
+description = "A basic WASD freecam for your bevy camera"
 
 [dependencies]
 glam = "0.29"
